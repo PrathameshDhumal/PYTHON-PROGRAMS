@@ -1,0 +1,27 @@
+-_-_-_-_-_-_-_-_Random Forest-_-_-_-_-_-_-_-_-
+Breast Cancer
+         CodeNumber  ClumpThickness  UniformityCellSize  ...  NormalNucleoli     Mitoses  CancerType
+count  6.980000e+02      698.000000          698.000000  ...      698.000000  698.000000  698.000000
+mean   1.071807e+06        4.416905            3.137536  ...        2.869628    1.590258    2.690544
+std    6.175323e+05        2.817673            3.052575  ...        3.055004    1.716162    0.951596
+min    6.163400e+04        1.000000            1.000000  ...        1.000000    1.000000    2.000000
+25%    8.702582e+05        2.000000            1.000000  ...        1.000000    1.000000    2.000000
+50%    1.171710e+06        4.000000            1.000000  ...        1.000000    1.000000    2.000000
+75%    1.238354e+06        6.000000            5.000000  ...        4.000000    1.000000    4.000000
+max    1.345435e+07       10.000000           10.000000  ...       10.000000   10.000000    4.000000
+
+[8 rows x 10 columns]
+Train_x Shape:: (477, 9)
+Train_y Shape:: (477,)
+Test_x Shape:: (205, 9)
+Test_y Shape:: (205,)
+Trained Model ::  RandomForestClassifier()
+Actual outcome :: 4 and Predicted outcome :: 4
+Actual outcome :: 4 and Predicted outcome :: 4
+Actual outcome :: 2 and Predicted outcome :: 2
+Actual outcome :: 4 and Predicted outcome :: 4
+Actual outcome :: 2 and Predicted outcome :: 2
+Train Accuracy :: 100.0
+Test Accuracy :: 98.04878048780488
+Confusion matrix [[132   2]
+ [  2  69]]
