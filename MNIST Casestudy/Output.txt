@@ -1,0 +1,15 @@
+*******MNIST1.PY*******
+Testing accuracy using decision tree classifier :  84.75
+Training accuracy using decision tree classifier :  100.0
+*******MNIST2.PY*******
+Testing accuracy using decision tree :  85.07142857142857
+Training accuracy using decision tree :  100.0
+Testing accuracy using random forest :  95.19047619047619
+Training accuracy using random forest :  99.98809523809524
+*******MNIST3.PY*******
+Testing accuracy using decision tree :  84.70238095238095
+Training accuracy using decision tree :  100.0
+Testing accuracy using random forest :  95.19047619047619
+Training accuracy using random forest :  99.98214285714285
+Testing accuracy using bagging classifier :  93.75
+Training accuracy using bagging classifier :  99.24702380952381
