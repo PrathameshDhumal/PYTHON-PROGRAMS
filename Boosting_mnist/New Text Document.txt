@@ -1,0 +1,2 @@
+Testing accuracy using bagging classifier : 84.83333333333334
+Training accuracy using bagging classifier: 100.0
