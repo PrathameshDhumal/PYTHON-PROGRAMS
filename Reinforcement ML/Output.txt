@@ -1,0 +1,82 @@
+________________Reinforcement Machine Learning_____________
+Step no 1
+Observations [0.0, 0.0, 0.0]
+[0, 1]
+Total reward 0.8426084512348986
+Step no 2
+Observations [0.0, 0.0, 0.0]
+[0, 1]
+Total reward 1.7482790125291263
+Step no 3
+Observations [0.0, 0.0, 0.0]
+[0, 1]
+Total reward 1.997147671861641
+Step no 4
+Observations [0.0, 0.0, 0.0]
+[0, 1]
+Total reward 2.6345704394231597
+Step no 5
+Observations [0.0, 0.0, 0.0]
+[0, 1]
+Total reward 3.3091490305603264
+Step no 6
+Observations [0.0, 0.0, 0.0]
+[0, 1]
+Total reward 3.5910137557214865
+Step no 7
+Observations [0.0, 0.0, 0.0]
+[0, 1]
+Total reward 3.6556672946015016
+Step no 8
+Observations [0.0, 0.0, 0.0]
+[0, 1]
+Total reward 4.210602669834669
+Step no 9
+Observations [0.0, 0.0, 0.0]
+[0, 1]
+Total reward 4.442305840072722
+Step no 10
+Observations [0.0, 0.0, 0.0]
+[0, 1]
+Total reward 4.553313802621846
+Step no 11
+Observations [0.0, 0.0, 0.0]
+[0, 1]
+Total reward 5.496396428275571
+Step no 12
+Observations [0.0, 0.0, 0.0]
+[0, 1]
+Total reward 6.449316929841799
+Step no 13
+Observations [0.0, 0.0, 0.0]
+[0, 1]
+Total reward 7.283206178036444
+Step no 14
+Observations [0.0, 0.0, 0.0]
+[0, 1]
+Total reward 7.810943925590814
+Step no 15
+Observations [0.0, 0.0, 0.0]
+[0, 1]
+Total reward 8.746607327218626
+Step no 16
+Observations [0.0, 0.0, 0.0]
+[0, 1]
+Total reward 9.156725553573313
+Step no 17
+Observations [0.0, 0.0, 0.0]
+[0, 1]
+Total reward 9.988868953291206
+Step no 18
+Observations [0.0, 0.0, 0.0]
+[0, 1]
+Total reward 10.656193416169804
+Step no 19
+Observations [0.0, 0.0, 0.0]
+[0, 1]
+Total reward 11.174396261292275
+Step no 20
+Observations [0.0, 0.0, 0.0]
+[0, 1]
+Total reward 11.587688383247837
+Total reward got : 11.5877
